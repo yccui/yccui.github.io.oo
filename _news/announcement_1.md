@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I began working as a summer fellow at Stanford's [RegLab](https://reglab.stanford.edu/)
+I began working as a summer fellow at Stanford's [RegLab](https://reglab.stanford.edu/).
